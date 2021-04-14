@@ -1,3 +1,3 @@
-Here is a result <h3>&#8595;</h3><br> 
+Here is a result <br> 
 https://arphotographerstudio.netlify.app/
 
