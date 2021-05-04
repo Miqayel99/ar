@@ -1,3 +1,3 @@
-Here is  result &#8615; <br> 
+ &#8615; Here is  result &#8615; <br> 
 https://arphotographerstudio.netlify.app/
 
